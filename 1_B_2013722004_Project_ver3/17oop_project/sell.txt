@@ -1,0 +1,5 @@
+usb_8g electronics 20000
+frying_pan kitchen_supplies 10000
+glue office_supplies 10000
+usb_8g electronics 20000
+frying_pan kitchen_supplies 25000
